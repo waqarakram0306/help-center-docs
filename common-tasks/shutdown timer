@@ -1,0 +1,3 @@
+To set shutdown timer, open TERMINAL and type: 
+    sudo shutdown -h +30 
+this shuts down the OS after 30 minutes( change '30' to required time)
